@@ -1,0 +1,1 @@
+Landning page for Forecastify
